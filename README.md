@@ -1,6 +1,7 @@
 # first_assigment
 nodejs assigment
  Hierarchical directories handler challenge, to execute just use:
+ 
  $ node directories.js
  
 A different set of instructions can be given, modifying the "instructions" string, 
