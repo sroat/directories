@@ -1,4 +1,4 @@
-# first_assigment
+# Directories
 nodejs assigment
  Hierarchical directories handler challenge, to execute just use:
  
